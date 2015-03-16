@@ -1,0 +1,3 @@
+# docker-atlassian-crowd-mysql
+
+This is a test repository. I wasn't able to get it working properly since the docker instance launches Crowd multiple times...
